@@ -1,0 +1,734 @@
+[
+  {
+    "id": 1,
+    "name": "Statens Vegvesen",
+    "url": "https://github.com/nvdb-vegdata",
+    "owner": "nvdb-vegdata"
+  },
+  {
+    "id": 2,
+    "name": "SSB",
+    "url": "https://github.com/statisticsnorway",
+    "owner": "statisticsnorway"
+  },
+  {
+    "id": 3,
+    "name": "Avinor",
+    "url": "https://github.com/avinor",
+    "owner": "avinor"
+  },
+  {
+    "id": 4,
+    "name": "Norsk-Tipping",
+    "url": "https://github.com/Norsk-Tipping",
+    "owner": "Norsk-Tipping"
+  },
+  {
+    "id": 5,
+    "name": "Digipost",
+    "url": "https://github.com/digipost",
+    "owner": "digipost"
+  },
+  {
+    "id": 6,
+    "name": "Bring",
+    "url": "https://github.com/bring",
+    "owner": "bring"
+  },
+  {
+    "id": 7,
+    "name": "Statens pensjonskasse",
+    "url": "https://github.com/StatensPensjonskasse",
+    "owner": "StatensPensjonskasse"
+  },
+  {
+    "id": 8,
+    "name": "Altinn",
+    "url": "https://github.com/altinn",
+    "owner": "altinn"
+  },
+  {
+    "id": 9,
+    "name": "Entur AS",
+    "url": "https://github.com/entur",
+    "owner": "entur"
+  },
+  {
+    "id": 10,
+    "name": "Equinor",
+    "url": "https://github.com/equinor",
+    "owner": "equinor"
+  },
+  {
+    "id": 11,
+    "name": "Norsk rikskringkasting (NRK)",
+    "url": "https://github.com/nrkno",
+    "owner": "nrkno"
+  },
+  {
+    "id": 12,
+    "name": "Kartverket",
+    "url": "https://github.com/kartverket",
+    "owner": "kartverket"
+  },
+  {
+    "id": 13,
+    "name": "Trondheim kommune",
+    "url": "https://github.com/Trondheim-kommune",
+    "owner": "Trondheim-kommune"
+  },
+  {
+    "id": 14,
+    "name": "Trondheim Kommune TIP",
+    "url": "https://github.com/tktip",
+    "owner": "tktip"
+  },
+  {
+    "id": 15,
+    "name": "Norsk institutt for vannforskning",
+    "url": "https://github.com/NIVANorge",
+    "owner": "NIVANorge"
+  },
+  {
+    "id": 16,
+    "name": "Skatteetaten",
+    "url": "https://github.com/skatteetaten",
+    "owner": "skatteetaten"
+  },
+  {
+    "id": 17,
+    "name": "NAV IT",
+    "url": "https://github.com/navikt",
+    "owner": "navikt"
+  },
+  {
+    "id": 18,
+    "name": "Oslo kommune",
+    "url": "https://github.com/oslokommune",
+    "owner": "oslokommune"
+  },
+  {
+    "id": 19,
+    "name": "Direktoratet for samfunnssikkerhet og beredskap",
+    "url": "https://github.com/dsb-norge",
+    "owner": "dsb-norge"
+  },
+  {
+    "id": 20,
+    "name": "Bergen kommune",
+    "url": "https://github.com/bergenkommune",
+    "owner": "bergenkommune"
+  },
+  {
+    "id": 21,
+    "name": "Statens vegvesen",
+    "url": "https://github.com/vegvesen",
+    "owner": "vegvesen"
+  },
+  {
+    "id": 22,
+    "name": "Norwegian Public Roads Administration",
+    "url": "https://github.com/NPRA",
+    "owner": "NPRA"
+  },
+  {
+    "id": 23,
+    "name": "Kystverket",
+    "url": "https://github.com/Kystverket",
+    "owner": "Kystverket"
+  },
+  {
+    "id": 24,
+    "name": "Brønnøysundregistrene",
+    "url": "https://github.com/brreg",
+    "owner": "brreg"
+  },
+  {
+    "id": 25,
+    "name": "Digitaliseringsdirektoratet (Digdir)",
+    "url": "https://github.com/difi",
+    "owner": "difi"
+  },
+  {
+    "id": 26,
+    "name": "Mattilsynet",
+    "url": "https://github.com/Mattilsynet",
+    "owner": "Mattilsynet"
+  },
+  {
+    "id": 27,
+    "name": "Miljødirektoratet",
+    "url": "https://github.com/miljodir",
+    "owner": "miljodir"
+  },
+  {
+    "id": 28,
+    "name": "Riksrevisjonen",
+    "url": "https://github.com/Riksrevisjonen",
+    "owner": "Riksrevisjonen"
+  },
+  {
+    "id": 29,
+    "name": "Toll",
+    "url": "https://github.com/toll",
+    "owner": "toll"
+  },
+  {
+    "id": 30,
+    "name": "Utdanningsdirektoratet",
+    "url": "https://github.com/Utdanningsdirektoratet",
+    "owner": "Utdanningsdirektoratet"
+  },
+  {
+    "id": 31,
+    "name": "Forbrukerrådet",
+    "url": "https://github.com/Forbrukerradet",
+    "owner": "Forbrukerradet"
+  },
+  {
+    "id": 32,
+    "name": "Artsdatabanken",
+    "url": "https://github.com/Artsdatabanken",
+    "owner": "Artsdatabanken"
+  },
+  {
+    "id": 33,
+    "name": "Direktoratet for forvaltning og økonomistyring",
+    "url": "https://github.com/dfo-no",
+    "owner": "dfo-no"
+  },
+  {
+    "id": 34,
+    "name": "Nasjonalbiblioteket",
+    "url": "https://github.com/NationalLibraryOfNorway",
+    "owner": "NationalLibraryOfNorway"
+  },
+  {
+    "id": 35,
+    "name": "SIKT",
+    "url": "https://github.com/BIBSYSDEV",
+    "owner": "BIBSYSDEV"
+  },
+  {
+    "id": 36,
+    "name": "MUSIT-Norway",
+    "url": "https://github.com/MUSIT-Norway",
+    "owner": "MUSIT-Norway"
+  },
+  {
+    "id": 37,
+    "name": "Vy",
+    "url": "https://github.com/nsbno",
+    "owner": "nsbno"
+  },
+  {
+    "id": 38,
+    "name": "Norwegian Meteorological Institute",
+    "url": "https://github.com/metno",
+    "owner": "metno"
+  },
+  {
+    "id": 39,
+    "name": "NAV Application Platform",
+    "url": "https://github.com/nais",
+    "owner": "nais"
+  },
+  {
+    "id": 40,
+    "name": "Norsk Helsenett SF",
+    "url": "https://github.com/NorskHelsenett",
+    "owner": "NorskHelsenett"
+  },
+  {
+    "id": 41,
+    "name": "Politiets IT-enhet",
+    "url": "https://github.com/politiet",
+    "owner": "politiet"
+  },
+  {
+    "id": 42,
+    "name": "Norsk Regnesentral",
+    "url": "https://github.com/NorskRegnesentral",
+    "owner": "NorskRegnesentral"
+  },
+  {
+    "id": 43,
+    "name": "Scrimba",
+    "url": "https://github.com/scrimba",
+    "owner": "scrimba"
+  },
+  {
+    "id": 44,
+    "name": "Sopra Steria Norge",
+    "url": "https://github.com/sopra-steria-norge",
+    "owner": "sopra-steria-norge"
+  },
+  {
+    "id": 45,
+    "name": "Nordic Semiconductor",
+    "url": "https://github.com/NordicSemiconductor",
+    "owner": "NordicSemiconductor"
+  },
+  {
+    "id": 46,
+    "name": "Nordic Semiconductor Playground",
+    "url": "https://github.com/NordicPlayground",
+    "owner": "NordicPlayground"
+  },
+  {
+    "id": 47,
+    "name": "reMarkable AS",
+    "url": "https://github.com/reMarkable",
+    "owner": "reMarkable"
+  },
+  {
+    "id": 48,
+    "name": "Opera",
+    "url": "https://github.com/operasoftware",
+    "owner": "operasoftware"
+  },
+  {
+    "id": 49,
+    "name": "Highcharts",
+    "url": "https://github.com/highcharts",
+    "owner": "highcharts"
+  },
+  {
+    "id": 50,
+    "name": "NRKBeta",
+    "url": "https://github.com/nrkbeta",
+    "owner": "nrkbeta"
+  },
+  {
+    "id": 51,
+    "name": "Vipps MobilePay",
+    "url": "https://github.com/vippsas",
+    "owner": "vippsas"
+  },
+  {
+    "id": 52,
+    "name": "Gjensidige",
+    "url": "https://github.com/gjensidige",
+    "owner": "gjensidige"
+  },
+  {
+    "id": 53,
+    "name": "SpareBank 1 Utvikling",
+    "url": "https://github.com/sparebank1utvikling",
+    "owner": "sparebank1utvikling"
+  },
+  {
+    "id": 54,
+    "name": "Airthings",
+    "url": "https://github.com/Airthings",
+    "owner": "Airthings"
+  },
+  {
+    "id": 55,
+    "name": "DigiFarm",
+    "url": "https://github.com/digifarmio",
+    "owner": "digifarmio"
+  },
+  {
+    "id": 56,
+    "name": "Arktekk",
+    "url": "https://github.com/arktekk",
+    "owner": "arktekk"
+  },
+  {
+    "id": 57,
+    "name": "Shuffle",
+    "url": "https://github.com/Shuffle",
+    "owner": "Shuffle"
+  },
+  {
+    "id": 58,
+    "name": "OS.js",
+    "url": "https://github.com/os-js",
+    "owner": "os-js"
+  },
+  {
+    "id": 59,
+    "name": "Vivaldi Browser",
+    "url": "https://github.com/vivaldi",
+    "owner": "vivaldi"
+  },
+  {
+    "id": 60,
+    "name": "Ibexa",
+    "url": "https://github.com/ezsystems",
+    "owner": "ezsystems"
+  },
+  {
+    "id": 61,
+    "name": "Ibexa",
+    "url": "https://github.com/ibexa",
+    "owner": "ibexa"
+  },
+  {
+    "id": 62,
+    "name": "Fremtind Forsikring AS",
+    "url": "https://github.com/fremtind",
+    "owner": "fremtind"
+  },
+  {
+    "id": 63,
+    "name": "DNV",
+    "url": "https://github.com/dnvgl",
+    "owner": "dnvgl"
+  },
+  {
+    "id": 64,
+    "name": "BCC Code",
+    "url": "https://github.com/bcc-code",
+    "owner": "bcc-code"
+  },
+  {
+    "id": 65,
+    "name": "Amedia Produkt og Teknologi",
+    "url": "https://github.com/amedia",
+    "owner": "amedia"
+  },
+  {
+    "id": 66,
+    "name": "Multiconsult Group",
+    "url": "https://github.com/Multiconsult-Group",
+    "owner": "Multiconsult-Group"
+  },
+  {
+    "id": 67,
+    "name": "Haugaland Kraft AS",
+    "url": "https://github.com/hkraftno",
+    "owner": "hkraftno"
+  },
+  {
+    "id": 68,
+    "name": "Fortytwo",
+    "url": "https://github.com/fortytwoservices",
+    "owner": "fortytwoservices"
+  },
+  {
+    "id": 69,
+    "name": "Intility",
+    "url": "https://github.com/Intility",
+    "owner": "Intility"
+  },
+  {
+    "id": 70,
+    "name": "Egde",
+    "url": "https://github.com/EgdeConsulting",
+    "owner": "EgdeConsulting"
+  },
+  {
+    "id": 71,
+    "name": "bekk",
+    "url": "https://github.com/bekk",
+    "owner": "bekk"
+  },
+  {
+    "id": 72,
+    "name": "Bekk",
+    "url": "https://github.com/Kron-AS",
+    "owner": "Kron-AS"
+  },
+  {
+    "id": 73,
+    "name": "Liflig",
+    "url": "https://github.com/capralifecycle",
+    "owner": "capralifecycle"
+  },
+  {
+    "id": 74,
+    "name": "Coop Norge SA",
+    "url": "https://github.com/coopnorge",
+    "owner": "coopnorge"
+  },
+  {
+    "id": 75,
+    "name": "Last Friday",
+    "url": "https://github.com/LastFriday",
+    "owner": "LastFriday"
+  },
+  {
+    "id": 76,
+    "name": "REEF3D",
+    "url": "https://github.com/REEF3D",
+    "owner": "REEF3D"
+  },
+  {
+    "id": 77,
+    "name": "SINTEF",
+    "url": "https://github.com/SINTEF",
+    "owner": "SINTEF"
+  },
+  {
+    "id": 78,
+    "name": "mnemonic",
+    "url": "https://github.com/mnemonic-no",
+    "owner": "mnemonic-no"
+  },
+  {
+    "id": 79,
+    "name": "Rubynor AS",
+    "url": "https://github.com/rubynor",
+    "owner": "rubynor"
+  },
+  {
+    "id": 80,
+    "name": "Vev",
+    "url": "https://github.com/vev-design",
+    "owner": "vev-design"
+  },
+  {
+    "id": 81,
+    "name": "Fink",
+    "url": "https://github.com/finkoslo",
+    "owner": "finkoslo"
+  },
+  {
+    "id": 82,
+    "name": "Schibsted",
+    "url": "https://github.com/schibsted",
+    "owner": "schibsted"
+  },
+  {
+    "id": 83,
+    "name": "Verdens Gang AS",
+    "url": "https://github.com/vgno",
+    "owner": "vgno"
+  },
+  {
+    "id": 84,
+    "name": "TIDAL Engineering",
+    "url": "https://github.com/tidal-engineering",
+    "owner": "tidal-engineering"
+  },
+  {
+    "id": 85,
+    "name": "Konfidens AS",
+    "url": "https://github.com/Konfidens",
+    "owner": "Konfidens"
+  },
+  {
+    "id": 86,
+    "name": "Junior Consulting AS",
+    "url": "https://github.com/juniorconsulting",
+    "owner": "juniorconsulting"
+  },
+  {
+    "id": 87,
+    "name": "Zivid",
+    "url": "https://github.com/zivid",
+    "owner": "zivid"
+  },
+  {
+    "id": 88,
+    "name": "Oda",
+    "url": "https://github.com/kolonialno",
+    "owner": "kolonialno"
+  },
+  {
+    "id": 89,
+    "name": "variant",
+    "url": "https://github.com/varianter",
+    "owner": "varianter"
+  },
+  {
+    "id": 90,
+    "name": "Oslo Centre for Biostatistics and Epidemiology",
+    "url": "https://github.com/ocbe-uio",
+    "owner": "ocbe-uio"
+  },
+  {
+    "id": 91,
+    "name": "Pro Well Plan",
+    "url": "https://github.com/pro-well-plan",
+    "owner": "pro-well-plan"
+  },
+  {
+    "id": 92,
+    "name": "Revolve NTNU",
+    "url": "https://github.com/RevolveNTNU",
+    "owner": "RevolveNTNU"
+  },
+  {
+    "id": 93,
+    "name": "Stacc",
+    "url": "https://github.com/stacc",
+    "owner": "stacc"
+  },
+  {
+    "id": 94,
+    "name": "snok",
+    "url": "https://github.com/snok",
+    "owner": "snok"
+  },
+  {
+    "id": 95,
+    "name": "UiO - University of Oslo",
+    "url": "https://github.com/unioslo",
+    "owner": "unioslo"
+  },
+  {
+    "id": 96,
+    "name": "Vortex NTNU",
+    "url": "https://github.com/vortexntnu",
+    "owner": "vortexntnu"
+  },
+  {
+    "id": 97,
+    "name": "Telenor Security Operation Centre",
+    "url": "https://github.com/telenorsoc",
+    "owner": "telenorsoc"
+  },
+  {
+    "id": 98,
+    "name": "HelseCERT",
+    "url": "https://github.com/helsecert",
+    "owner": "helsecert"
+  },
+  {
+    "id": 99,
+    "name": "Telenor Norge IP NMS team",
+    "url": "https://github.com/telenornms",
+    "owner": "telenornms"
+  },
+  {
+    "id": 100,
+    "name": "Sporveien",
+    "url": "https://github.com/sporveien",
+    "owner": "sporveien"
+  },
+  {
+    "id": 101,
+    "name": "Knowit",
+    "url": "https://github.com/knowit",
+    "owner": "knowit"
+  },
+  {
+    "id": 102,
+    "name": "Nimtech",
+    "url": "https://github.com/nimling",
+    "owner": "nimling"
+  },
+  {
+    "id": 103,
+    "name": "Agens AS",
+    "url": "https://github.com/agens-no",
+    "owner": "agens-no"
+  },
+  {
+    "id": 104,
+    "name": "Miles",
+    "url": "https://github.com/miles-no",
+    "owner": "miles-no"
+  },
+  {
+    "id": 105,
+    "name": "Atea",
+    "url": "https://github.com/atea",
+    "owner": "atea"
+  },
+  {
+    "id": 106,
+    "name": "Digitaliseringsdirektoratets Seksjon for informasjonsforvaltning",
+    "url": "https://github.com/Informasjonsforvaltning",
+    "owner": "Informasjonsforvaltning"
+  },
+  {
+    "id": 107,
+    "name": "Epinova",
+    "url": "https://github.com/Epinova",
+    "owner": "Epinova"
+  },
+  {
+    "id": 108,
+    "name": "OBOS",
+    "url": "https://github.com/code-obos",
+    "owner": "code-obos"
+  },
+  {
+    "id": 109,
+    "name": "Telenor Norway",
+    "url": "https://github.com/TelenorNorway",
+    "owner": "TelenorNorway"
+  },
+  {
+    "id": 110,
+    "name": "BaneNOR-KL-verktoyer",
+    "url": "https://github.com/BaneNOR-KL-verktoyer",
+    "owner": "BaneNOR-KL-verktoyer"
+  },
+  {
+    "id": 111,
+    "name": "Align Racing UiA",
+    "url": "https://github.com/align-racing-uia",
+    "owner": "align-racing-uia"
+  },
+  {
+    "id": 112,
+    "name": "Universitetet i Agder",
+    "url": "https://github.com/uiano",
+    "owner": "uiano"
+  },
+  {
+    "id": 113,
+    "name": "Centre for Artificial Intelligence Research",
+    "url": "https://github.com/cair",
+    "owner": "cair"
+  },
+  {
+    "id": 114,
+    "name": "Norwegian Ai Cloud",
+    "url": "https://github.com/NAICNO",
+    "owner": "NAICNO"
+  },
+  {
+    "id": 115,
+    "name": "FFI - Norwegian Defence Research Establishment",
+    "url": "https://github.com/FFI-no",
+    "owner": "FFI-no"
+  },
+  {
+    "id": 116,
+    "name": "Bitfocus AS - Open Source",
+    "url": "https://github.com/bitfocus",
+    "owner": "bitfocus"
+  },
+  {
+    "id": 117,
+    "name": "Bitfocus AS",
+    "url": "https://github.com/bitfocusas",
+    "owner": "bitfocusas"
+  },
+  {
+    "id": 118,
+    "name": "Trippel-M",
+    "url": "https://github.com/trippelm",
+    "owner": "trippelm"
+  },
+  {
+    "id": 119,
+    "name": "TV 2 AS",
+    "url": "https://github.com/tv2norge",
+    "owner": "tv2norge"
+  },
+  {
+    "id": 120,
+    "name": "Sonat AS",
+    "url": "https://github.com/Sonat-Consulting",
+    "owner": "Sonat-Consulting"
+  },
+  {
+    "id": 121,
+    "name": "Nettbureau",
+    "url": "https://github.com/nettbureau",
+    "owner": "nettbureau"
+  },
+  {
+    "id": 122,
+    "name": "TietoEVRY",
+    "url": "https://github.com/evry",
+    "owner": "evry"
+  }
+]
