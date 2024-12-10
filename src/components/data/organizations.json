@@ -730,5 +730,11 @@
     "name": "TietoEVRY",
     "url": "https://github.com/evry",
     "owner": "evry"
+  },
+  {
+    "id": 123,
+    "name": "Digdir",
+    "url": "https://github.com/digdir",
+    "owner": "digdir"
   }
 ]
