@@ -736,5 +736,11 @@
     "name": "Digdir",
     "url": "https://github.com/digdir",
     "owner": "digdir"
+  },
+  {
+    "id": 124,
+    "name": "Bekk open source",
+    "url": "https://github.com/bekkopen",
+    "owner": "bekkopen"
   }
 ]
