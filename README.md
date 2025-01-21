@@ -27,8 +27,8 @@ bun run dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## Deployed to GitHub pages
-The application is live at: https://mikaojk.github.io/norwegian-organizations
+## Deployed to Vercel
+The application is live at: https://norwegian-organizations.vercel.app/norwegian-organizations
 
 ## Organization is missing!!
 Follow the guide in the: [CONTRIBUTING.md](CONTRIBUTING.md)
