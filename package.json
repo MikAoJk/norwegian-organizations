@@ -1,7 +1,7 @@
 {
   "name": "norwegian-organizations",
   "version": "1.0.0",
-  "homepage": "https://mikaojk.github.io/norwegian-organizations",
+  "homepage": "https://norwegian-organizations.vercel.app",
   "private": true,
   "scripts": {
     "dev": "next dev",
